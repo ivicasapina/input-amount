@@ -1,0 +1,28 @@
+{
+    "name": "ivicasapina/input-amount",
+    "description": "Configurable input amount for shopware",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivica Šapina",
+            "email": "ivica.moke@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "InputAmount\\": "src/"
+        }
+     },
+    "require": {
+        "php": ">= 7.4"
+    },
+    "extra": {
+        "shopware-plugin-class": "InputAmount\\InputAmount",
+        "label": {
+             "de-DE": "Input amount",
+             "en-GB": "Input amount"
+        }
+    }
+}
