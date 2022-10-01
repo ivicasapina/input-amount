@@ -3,6 +3,7 @@
     "description": "plugin",
     "type": "shopware-platform-plugin",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Ivica Šapina",
@@ -15,9 +16,6 @@
             "InputAmount\\": "src/"
         }
      },
-    "require": {
-        "php": ">= 7.4"
-    },
     "extra": {
         "shopware-plugin-class": "InputAmount\\InputAmount",
         "label": {
