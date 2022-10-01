@@ -13,11 +13,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "InputAmount\\": "src/"
+            "Isapina\\InputAmount\\": "src/"
         }
      },
     "extra": {
-        "shopware-plugin-class": "InputAmount\\InputAmount",
+        "shopware-plugin-class": "Isapina\\InputAmount",
         "label": {
              "de-DE": "Input amount",
              "en-GB": "Input amount"

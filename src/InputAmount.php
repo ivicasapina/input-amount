@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace InputAmount;
+namespace Isapina\InputAmount;
 
 use Shopware\Core\Framework\Plugin;
 
