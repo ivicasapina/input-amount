@@ -1,6 +1,6 @@
 {
     "name": "ivicasapina/input-amount",
-    "description": "Configurable input amount for shopware",
+    "description": "plugin",
     "type": "shopware-platform-plugin",
     "license": "MIT",
     "authors": [
